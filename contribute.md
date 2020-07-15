@@ -1,4 +1,4 @@
-# Contribute
+# contribute
 
 if you'd like to add or amend content to this repository, at the moment you need to be at least a little bit techie to get setup. you'll want to read the getting started instructions for [Foam](https://foambubble.github.io/foam). Then fork this [repository](https://github.com/greglgomez/permaculture), make your changes and submit a pull request.
 

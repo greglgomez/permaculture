@@ -1,4 +1,4 @@
-# Resources
+# resources
 
 Here you can find some permaculture resources I've come across in my journey, some are free, some are paid, all will expand your mind. :)
 

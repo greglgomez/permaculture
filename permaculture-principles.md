@@ -1,8 +1,8 @@
-# Permaculture Principles
+# permaculture principles
 
-There are two widely accepted sets of principles, which you can read about below:
+there are two widely accepted sets of principles, which you can read about below:
 
-Principles from [[Permaculture: A Designers' Manual]] by [[Bill Mollison]]:
+principles from Permaculture: A Designers' Manual by [[Bill Mollison]]:
 
 - [[work with nature rather than against it]]
 - [[make the least change for the greatest possible effect]]
@@ -10,7 +10,7 @@ Principles from [[Permaculture: A Designers' Manual]] by [[Bill Mollison]]:
 - [[the yield of a system is theoretically unlimited]]
 - [[everything gardens (or modifies it's environment)]]
 
-Principles from [[Permaculture: Principles and Pathways Beyond Sustainability (2002)]] by [[David Holmgren]]:
+principles from Permaculture: Principles and Pathways Beyond Sustainability (2002) by David Holmgren:
 
 - [[observe and interact]]
 - [[catch and store energy]]

@@ -1,4 +1,4 @@
-# Projects
+# projects
 
 if you'd like to add an open project here that others can join and be a part of, have a look at how to [[contribute]].
 
